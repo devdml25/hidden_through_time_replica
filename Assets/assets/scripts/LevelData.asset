@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b21f492610f33d2418491e9d4639fa4a, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  data:
+  - LevelName: Map 1
+    scoreToWin: 4
+    LevelPrefab: {fileID: 3842070179574333229, guid: 06ce2e099c1f0ae4d8dcc7044e655b0a, type: 3}
+  - LevelName: Map 2
+    scoreToWin: 4
+    LevelPrefab: {fileID: 8373936117185089945, guid: 51a2c1058a92d1e4ea8de929df780093, type: 3}
+  - LevelName: Map 3
+    scoreToWin: 4
+    LevelPrefab: {fileID: 54043927647934406, guid: 3a532fc3d92896f4ba2a65ff6cb84914, type: 3}
