@@ -15,10 +15,43 @@ MonoBehaviour:
   data:
   - LevelName: Map 1
     scoreToWin: 4
-    LevelPrefab: {fileID: 3842070179574333229, guid: 06ce2e099c1f0ae4d8dcc7044e655b0a, type: 3}
+    LevelPrefab: {fileID: 8650641164864501932, guid: 5915451a42a34e74e9280c2566e9fdfe, type: 3}
+    item:
+    - {fileID: 5230357099722727730, guid: 4f8f6fbdaebab4b4ebde328f53a605a1, type: 3}
+    - {fileID: 8621917737078892082, guid: 99c7785c0e68a8f44b229486794e627d, type: 3}
+    - {fileID: 4367679607225066776, guid: 7df7f5bea6fc63841a4d27a19aa569f6, type: 3}
+    - {fileID: 1856196181198475932, guid: b9cb1d187919431409489c05fdbd30f9, type: 3}
+    itemSpwanPoint:
+    - {fileID: 4035637329328798925, guid: 2e2f93e3f43fe3a49b4d2f9507b2a0cb, type: 3}
+    - {fileID: 2460580718488203827, guid: becf6d4522996d249a82c031bd558ded, type: 3}
+    - {fileID: 7867837166733814203, guid: 393f1b1ab2c34044cb89526355e01255, type: 3}
+    - {fileID: 7956264270988411103, guid: ef779ff61789ab841a7c3455fb6c1799, type: 3}
+    itemMenu: []
   - LevelName: Map 2
     scoreToWin: 4
-    LevelPrefab: {fileID: 8373936117185089945, guid: 51a2c1058a92d1e4ea8de929df780093, type: 3}
+    LevelPrefab: {fileID: 8650641164864501932, guid: 5915451a42a34e74e9280c2566e9fdfe, type: 3}
+    item:
+    - {fileID: 5230357099722727730, guid: 4f8f6fbdaebab4b4ebde328f53a605a1, type: 3}
+    - {fileID: 2479987898491955194, guid: 30fe9562d7648fe4890c6de34d48bbb9, type: 3}
+    - {fileID: 683393941364762786, guid: 701980ae749b6ab4d9b5f02b0ca339f3, type: 3}
+    - {fileID: 4455812787917606616, guid: 6c80d9cbdd4728f4bb3a58f307ff2901, type: 3}
+    itemSpwanPoint:
+    - {fileID: 5395031243756456094, guid: 6a5aac30be1f48647ba1680dcd6d151a, type: 3}
+    - {fileID: 7614318604742184639, guid: c1ab5d8c72baa1c4d97e46e258339248, type: 3}
+    - {fileID: 7403077824044784838, guid: c67b73cf48d3b7d439946754937eb523, type: 3}
+    - {fileID: 3050765914227546221, guid: 45245eac29ec0714ba28d090db081a83, type: 3}
+    itemMenu: []
   - LevelName: Map 3
     scoreToWin: 4
-    LevelPrefab: {fileID: 54043927647934406, guid: 3a532fc3d92896f4ba2a65ff6cb84914, type: 3}
+    LevelPrefab: {fileID: 66607489292991697, guid: 73ac922fad256e64f83800f302af82ea, type: 3}
+    item:
+    - {fileID: 51349287872113215, guid: 9567e8c7a750e4c43945180d4b179af6, type: 3}
+    - {fileID: 1348858209384590280, guid: ed76e630b53dd6345826e83bea64d099, type: 3}
+    - {fileID: 4455812787917606616, guid: 6c80d9cbdd4728f4bb3a58f307ff2901, type: 3}
+    - {fileID: 1856196181198475932, guid: b9cb1d187919431409489c05fdbd30f9, type: 3}
+    itemSpwanPoint:
+    - {fileID: 2701934254149198053, guid: b487ad9dbb3f5e64eb878221602c9c22, type: 3}
+    - {fileID: 7995728201017222098, guid: 580965781abac77429a47c75f776fdbc, type: 3}
+    - {fileID: 5395031243756456094, guid: 6a5aac30be1f48647ba1680dcd6d151a, type: 3}
+    - {fileID: 7403077824044784838, guid: c67b73cf48d3b7d439946754937eb523, type: 3}
+    itemMenu: []

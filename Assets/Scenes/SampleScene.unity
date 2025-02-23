@@ -225,10 +225,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camera_GameObject: {fileID: 519420028}
-  mapMinX: 0
-  mapMaxX: 50
-  mapMinY: 0
-  mapMaxY: 50
 --- !u!1 &616515977
 GameObject:
   m_ObjectHideFlags: 0
@@ -398,7 +394,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   levelData: {fileID: 11400000, guid: f843016e29b2b984ba10913f2bd42bed, type: 2}
-  currentLevelIndex: 2
+  currentLevelIndex: 1
   prefabsSpawn: {fileID: 616515978}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

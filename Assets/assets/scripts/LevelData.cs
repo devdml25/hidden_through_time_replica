@@ -1,3 +1,4 @@
+using NUnit.Framework;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -13,4 +14,7 @@ public class MyLevelData
     public string LevelName;
     public int scoreToWin;
     public GameObject LevelPrefab;
+    public List<GameObject> item;
+    public List <Transform> itemSpwanPoint;
+    public List<GameObject> itemMenu;
 }
